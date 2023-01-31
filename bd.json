@@ -1,0 +1,17 @@
+{
+  "acciones": [
+    { "symbol": "LU", "name": "Lufax", "precio": 200, "cantidad": 5 },
+
+    { "symbol": "BBD", "name": "Banco Bradesco", "precio": 80, "cantidad": 2 }
+  ],
+  "inversionistas": [
+    { "name": "Angelita", "aporte": 200, "reinversion": 5 },
+
+    { "name": "Luis", "aporte": 500, "reinversion": 15 }
+  ],
+  "ventas": [
+    { "symbol": "LU", "compra": 200, "venta": 5, "cantidad": 200 },
+
+    { "symbol": "LU", "compra": 200, "venta": 5, "cantidad": 200 }
+  ]
+}
